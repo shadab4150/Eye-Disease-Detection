@@ -12,7 +12,7 @@
 * Myopia
 * Other_abnormalities
 
-### Sample Image:
+### Sample Image: ( Left Eye, Right Eye )
 ![kd](https://i.ibb.co/WFkTh1Z/download.png)
 
 ## Diagnosis: 
