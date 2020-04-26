@@ -11,3 +11,13 @@
 * Hypertension	
 * Myopia
 * Other_abnormalities
+
+### Sample Image:
+![kd](https://i.ibb.co/WFkTh1Z/download.png)
+
+## Diagnosis: 
+* Left eye:
+> Hypertensive retinopathy, age-related macular degradation
+
+* Right Eye:
+> Hypertensive retinopathy, age-related macular degradation
