@@ -1,2 +1,13 @@
 # Eye-Disease-Detection
-Classifier to detect 4 types of eye conditions
+
+* Multi Disease eye detection:
+
+
+## Disease groups:
+* Diabetic	
+* Glaucoma	
+* Cataract	
+* AMD	 : **Age-related macular degeneration**
+* Hypertension	
+* Myopia
+* Other_abnormalities
