@@ -1,6 +1,6 @@
 # Eye-Disease-Detection
 
-* Multi Disease eye detection:
+* Multi Disease eye detection, AI based web diagnostic:
 
 
 ## Disease groups:
