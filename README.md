@@ -13,7 +13,7 @@
 * Other_abnormalities
 
 ### Sample Image: ( Left Eye, Right Eye )
-![kd](https://i.ibb.co/WFkTh1Z/download.png)
+![kd](https://raw.githubusercontent.com/shadab4150/Eye-Disease-Detection/master/shadab.png)
 
 ## Diagnosis: 
 * Left eye:
