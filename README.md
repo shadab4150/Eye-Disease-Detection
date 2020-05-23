@@ -2,6 +2,10 @@
 
 * Multi Disease eye detection, AI based web diagnostic:
 
+## Model Deployed At:  
+
+* [**Web Service**](https://sightnet-v1.onrender.com/)
+
 
 ## Disease groups:
 * Diabetic	
@@ -23,6 +27,4 @@
 > Hypertensive retinopathy, age-related macular degradation
 
 
-## Model Deployed At:  
 
-* [**Web Service**](https://sightnet-v1.onrender.com/)
