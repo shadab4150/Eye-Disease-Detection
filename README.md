@@ -8,7 +8,7 @@
 
 
 ## Disease groups:
-* Diabetic	
+* Diabetic Retinopathy
 * Glaucoma	
 * Cataract	
 * AMD	 : **Age-related macular degeneration**
